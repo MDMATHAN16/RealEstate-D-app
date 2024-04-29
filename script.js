@@ -129,7 +129,7 @@ async function connect_meta()
 
       // Create a contract instance using the ABI and contract address
      // 0x57Ec26379a85A863C62C9a3d21B0AF8c787cFEc0
-      const contractAddress = "0x06F25420943339082C7514CAAa93D6bE6Da215B8"; // Replace with the actual address 0x936a0788d061a001Ba4Ee975207C89644429F740
+      const contractAddress = "0x86edCbB4903Cc2FA5bf6f29485a4d5F24DdE8DF7"; // Replace with the actual address 0x936a0788d061a001Ba4Ee975207C89644429F740
    //  const contractAddress =0xdbB4E73d728aCE14a00Cb1A10AFa50935F69a376;
      const ABI = [
 	{
